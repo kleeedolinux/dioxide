@@ -7,7 +7,6 @@ Most Go linters feel like they were built in 2012. Dioxide doesn’t.
 
 We built it because:  
 - **It’s stupidly thorough** – Finds issues others miss (dead code, circular deps, *even package boundary leaks*)  
-- **Modern AF** – Uses AST-powered analysis instead of regex hacks → fewer false positives  
 - **Fixes your code for you** – Not just nagging – `--fix` actually cleans up 80% of issues automatically  
 - **Your rules, not ours** – Hate camelCase? Want 200-character lines? Configure it once and forget  
 
