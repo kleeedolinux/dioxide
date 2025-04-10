@@ -32,7 +32,7 @@ Think of it like a code janitor that *actually* cleans instead of just pointing 
 ### Install (10 seconds)  
 ```bash  
 # Clone & build (you’ll need Rust installed)  
-git clone https://github.com/kleedolinux/dioxide.git  
+git clone https://github.com/kleeedolinux/dioxide.git  
 cd dioxide  
 cargo build --release  
 
